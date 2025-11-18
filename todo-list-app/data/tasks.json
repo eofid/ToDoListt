@@ -1,0 +1,79 @@
+[
+  {
+    "id": 2822744167760,
+    "title": "cjdb",
+    "description": "",
+    "category": "Личное",
+    "priority": "Средний",
+    "due_date": "2025-11-08",
+    "status": "В процессе",
+    "creation_date": "2025-11-08T21:48:16.164823",
+    "modification_date": "2025-11-09T00:12:33.860895"
+  },
+  {
+    "id": 2411681097504,
+    "title": "новый год",
+    "description": "Праздник!",
+    "category": "Работа",
+    "priority": "Высокий",
+    "due_date": "2025-11-08",
+    "status": "Выполнена",
+    "creation_date": "2025-11-08T23:03:13.791600",
+    "modification_date": "2025-11-13T20:23:40.853419"
+  },
+  {
+    "id": 2786027924480,
+    "title": "ору",
+    "description": "орут",
+    "category": "Работа",
+    "priority": "Высокий",
+    "due_date": "2025-11-08",
+    "status": "Выполнена",
+    "creation_date": "2025-11-08T23:31:44.521888",
+    "modification_date": "2025-11-12T18:58:40.210144"
+  },
+  {
+    "id": 2786027924288,
+    "title": "оашк",
+    "description": "акшр",
+    "category": "Здоровье",
+    "priority": "Средний",
+    "due_date": "2025-11-08",
+    "status": "В процессе",
+    "creation_date": "2025-11-08T23:35:08.771581",
+    "modification_date": "2025-11-09T00:13:53.260312"
+  },
+  {
+    "id": 2786027927264,
+    "title": "у3",
+    "description": "у3",
+    "category": "Обучение",
+    "priority": "Низкий",
+    "due_date": "2025-11-08",
+    "status": "Выполнена",
+    "creation_date": "2025-11-08T23:36:51.574271",
+    "modification_date": "2025-11-09T00:13:05.681483"
+  },
+  {
+    "id": 2151993629136,
+    "title": "Сдать завтра два предмета до конца",
+    "description": "Да есть же",
+    "category": "Работа",
+    "priority": "Средний",
+    "due_date": "2025-11-13",
+    "status": "В процессе",
+    "creation_date": "2025-11-12T19:02:20.408980",
+    "modification_date": "2025-11-12T19:03:03.695281"
+  },
+  {
+    "id": 1385556270864,
+    "title": "день рождения",
+    "description": "обязательно",
+    "category": "Личное",
+    "priority": "Высокий",
+    "due_date": "2026-07-14",
+    "status": "Выполнена",
+    "creation_date": "2025-11-13T20:13:00.618301",
+    "modification_date": "2025-11-13T20:16:05.640416"
+  }
+]

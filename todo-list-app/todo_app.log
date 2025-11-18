@@ -1,0 +1,372 @@
+2025-10-29 21:27:27,990 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 21:27:27,990 - controllers.task_controller - INFO - No existing storage found, starting with empty task list
+2025-10-29 21:27:28,979 - __main__ - INFO - Application started successfully
+2025-10-29 21:29:47,822 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 21:29:47,823 - controllers.task_controller - INFO - No existing storage found, starting with empty task list
+2025-10-29 21:29:48,195 - __main__ - INFO - Application started successfully
+2025-10-29 21:29:58,117 - controllers.task_controller - INFO - Saved 0 tasks to storage
+2025-10-29 21:29:58,117 - controllers.task_controller - INFO - Final save completed
+2025-10-29 21:30:04,175 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 21:30:04,175 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-10-29 21:30:04,522 - __main__ - INFO - Application started successfully
+2025-10-29 21:30:15,286 - controllers.task_controller - INFO - Saved 0 tasks to storage
+2025-10-29 21:30:15,287 - controllers.task_controller - INFO - Final save completed
+2025-10-29 21:30:20,535 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 21:30:20,535 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-10-29 21:30:20,888 - __main__ - INFO - Application started successfully
+2025-10-29 21:30:54,335 - controllers.task_controller - INFO - Saved 0 tasks to storage
+2025-10-29 21:30:54,336 - controllers.task_controller - INFO - Final save completed
+2025-10-29 21:31:00,202 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 21:31:00,203 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-10-29 21:31:00,555 - __main__ - INFO - Application started successfully
+2025-10-29 21:33:34,263 - controllers.task_controller - INFO - Saved 0 tasks to storage
+2025-10-29 21:33:34,264 - controllers.task_controller - INFO - Final save completed
+2025-10-29 22:16:53,300 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 22:16:53,301 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-10-29 22:16:53,511 - __main__ - ERROR - Application error: 'MainWindow' object has no attribute 'save_all_to_database'
+2025-10-29 22:17:50,567 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 22:17:50,567 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-10-29 22:17:50,797 - __main__ - INFO - Application started successfully
+2025-10-29 22:18:07,591 - controllers.task_controller - INFO - Saved 0 tasks to storage
+2025-10-29 22:18:07,591 - controllers.task_controller - INFO - Final save completed
+2025-10-29 22:18:14,393 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 22:18:14,394 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-10-29 22:18:14,756 - __main__ - INFO - Application started successfully
+2025-10-29 22:21:29,455 - controllers.task_controller - INFO - Saved 0 tasks to storage
+2025-10-29 22:21:29,456 - controllers.task_controller - INFO - Final save completed
+2025-10-29 22:27:11,572 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 22:27:11,573 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-10-29 22:27:11,933 - __main__ - INFO - Application started successfully
+2025-10-29 22:27:31,699 - controllers.task_controller - INFO - Creating new task
+2025-10-29 22:27:31,699 - controllers.task_controller - INFO - Filters applied: 1 tasks match criteria
+2025-10-29 22:27:31,699 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-10-29 22:27:31,700 - controllers.task_controller - INFO - Task created: de (ID: 2090864070912)
+2025-10-29 22:28:39,395 - controllers.task_controller - INFO - Creating new task
+2025-10-29 22:28:39,395 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-10-29 22:28:39,396 - controllers.task_controller - INFO - Saved 2 tasks to storage
+2025-10-29 22:28:39,396 - controllers.task_controller - INFO - Task created: 2121 (ID: 2090865213408)
+2025-10-29 22:29:01,229 - controllers.task_controller - INFO - Creating new task
+2025-10-29 22:29:01,230 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-10-29 22:29:01,230 - controllers.task_controller - INFO - Saved 3 tasks to storage
+2025-10-29 22:29:01,230 - controllers.task_controller - INFO - Task created: gt (ID: 2090865328544)
+2025-10-29 22:29:14,842 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-10-29 22:29:21,369 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-10-29 22:29:24,223 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-10-29 22:29:26,228 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-10-29 22:29:28,145 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-10-29 22:29:31,661 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-10-29 22:29:37,134 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-10-29 22:29:41,816 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-10-29 22:29:46,829 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-10-29 22:29:49,354 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-10-29 22:29:51,299 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-10-29 22:30:07,341 - controllers.task_controller - INFO - Saved 3 tasks to storage
+2025-10-29 22:30:07,341 - controllers.task_controller - INFO - Final save completed
+2025-10-29 22:30:30,664 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 22:30:30,665 - controllers.task_controller - INFO - Loaded 3 tasks from storage
+2025-10-29 22:30:31,017 - __main__ - INFO - Application started successfully
+2025-10-29 22:32:11,039 - controllers.task_controller - INFO - Changing task status ID: 2090864070912 to Выполнена
+2025-10-29 22:32:11,039 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-10-29 22:32:11,040 - controllers.task_controller - INFO - Saved 3 tasks to storage
+2025-10-29 22:32:11,040 - controllers.task_controller - INFO - Task status changed: de -> Выполнена
+2025-10-29 22:32:25,536 - controllers.task_controller - INFO - Changing task status ID: 2090865328544 to Выполнена
+2025-10-29 22:32:25,536 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-10-29 22:32:25,537 - controllers.task_controller - INFO - Saved 3 tasks to storage
+2025-10-29 22:32:25,537 - controllers.task_controller - INFO - Task status changed: gt -> Выполнена
+2025-10-29 22:33:40,895 - controllers.task_controller - INFO - Filters applied: 0 tasks match criteria
+2025-10-29 22:33:47,772 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-10-29 22:34:03,627 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-10-29 22:34:30,152 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-10-29 22:34:45,080 - controllers.task_controller - INFO - Deleting task ID: 2090865328544
+2025-10-29 22:34:45,080 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-10-29 22:34:45,081 - controllers.task_controller - INFO - Saved 2 tasks to storage
+2025-10-29 22:34:45,081 - controllers.task_controller - INFO - Task deleted: gt (ID: 2090865328544)
+2025-10-29 22:35:06,192 - controllers.task_controller - INFO - Saved 2 tasks to storage
+2025-10-29 22:35:06,192 - controllers.task_controller - INFO - Final save completed
+2025-10-29 22:35:18,545 - __main__ - INFO - Starting To-Do List Application
+2025-10-29 22:35:18,545 - controllers.task_controller - ERROR - Error loading tasks: Expecting value: line 1 column 1 (char 0)
+2025-10-29 22:35:18,900 - __main__ - INFO - Application started successfully
+2025-10-29 22:35:21,411 - controllers.task_controller - INFO - Saved 0 tasks to storage
+2025-10-29 22:35:21,411 - controllers.task_controller - INFO - Final save completed
+2025-11-08 21:47:03,976 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 21:47:03,981 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-11-08 21:47:05,709 - __main__ - INFO - Application started successfully
+2025-11-08 21:47:17,450 - controllers.task_controller - INFO - Saved 0 tasks to storage
+2025-11-08 21:47:17,454 - controllers.task_controller - INFO - Final save completed
+2025-11-08 21:47:37,572 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 21:47:37,575 - controllers.task_controller - INFO - Loaded 0 tasks from storage
+2025-11-08 21:47:38,345 - __main__ - INFO - Application started successfully
+2025-11-08 21:48:16,162 - controllers.task_controller - INFO - Creating new task
+2025-11-08 21:48:16,164 - controllers.task_controller - INFO - Filters applied: 1 tasks match criteria
+2025-11-08 21:48:16,166 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 21:48:16,169 - controllers.task_controller - INFO - Task created: cjdb (ID: 2822744167760)
+2025-11-08 22:21:40,714 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:21:40,739 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:22:41,659 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:22:41,702 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:22:42,798 - __main__ - INFO - Application started successfully
+2025-11-08 22:22:45,736 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:22:45,739 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:25:09,891 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:25:09,895 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:25:10,614 - __main__ - INFO - Application started successfully
+2025-11-08 22:37:06,495 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:37:06,499 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:37:15,017 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:37:15,055 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:37:17,579 - __main__ - INFO - Application started successfully
+2025-11-08 22:37:53,753 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:37:53,758 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:37:58,468 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:37:58,473 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:37:59,424 - __main__ - INFO - Application started successfully
+2025-11-08 22:41:23,255 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:41:23,260 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:41:28,074 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:41:28,081 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:41:29,062 - __main__ - INFO - Application started successfully
+2025-11-08 22:41:45,891 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:41:45,894 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:41:55,182 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:41:55,188 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:41:56,158 - __main__ - INFO - Application started successfully
+2025-11-08 22:46:17,275 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:46:17,352 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:47:36,196 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:47:36,202 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:47:36,911 - __main__ - INFO - Application started successfully
+2025-11-08 22:49:49,446 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:49:49,450 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:49:53,649 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:49:53,655 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:49:54,651 - __main__ - INFO - Application started successfully
+2025-11-08 22:50:19,658 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:50:19,661 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:52:42,339 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:52:42,344 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:52:43,094 - __main__ - INFO - Application started successfully
+2025-11-08 22:53:45,570 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:53:45,578 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:53:55,502 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:53:55,509 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:53:56,215 - __main__ - INFO - Application started successfully
+2025-11-08 22:54:04,522 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:54:04,525 - controllers.task_controller - INFO - Final save completed
+2025-11-08 22:55:41,206 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 22:55:41,211 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 22:55:41,931 - __main__ - INFO - Application started successfully
+2025-11-08 22:55:53,402 - controllers.task_controller - INFO - Saved 1 tasks to storage
+2025-11-08 22:55:53,404 - controllers.task_controller - INFO - Final save completed
+2025-11-08 23:02:42,367 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 23:02:42,371 - controllers.task_controller - INFO - Loaded 1 tasks from storage
+2025-11-08 23:02:43,314 - __main__ - INFO - Application started successfully
+2025-11-08 23:03:13,790 - controllers.task_controller - INFO - Creating new task
+2025-11-08 23:03:13,791 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-11-08 23:03:13,795 - controllers.task_controller - INFO - Saved 2 tasks to storage
+2025-11-08 23:03:13,796 - controllers.task_controller - INFO - Task created: новый год (ID: 2411681097504)
+2025-11-08 23:23:36,173 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-11-08 23:27:24,221 - controllers.task_controller - INFO - Saved 2 tasks to storage
+2025-11-08 23:27:24,224 - controllers.task_controller - INFO - Final save completed
+2025-11-08 23:27:29,788 - __main__ - INFO - Starting To-Do List Application
+2025-11-08 23:27:29,792 - controllers.task_controller - INFO - Loaded 2 tasks from storage
+2025-11-08 23:27:30,837 - __main__ - INFO - Application started successfully
+2025-11-08 23:28:07,720 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:28:28,198 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-11-08 23:29:00,203 - controllers.task_controller - INFO - Creating new task
+2025-11-08 23:29:00,205 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-11-08 23:29:00,207 - controllers.task_controller - INFO - Saved 3 tasks to storage
+2025-11-08 23:29:00,210 - controllers.task_controller - INFO - Task created: Кирилл (ID: 2786026755264)
+2025-11-08 23:30:02,482 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-11-08 23:30:08,697 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-11-08 23:30:12,405 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-11-08 23:30:17,413 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-11-08 23:30:29,354 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:30:33,294 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-11-08 23:30:37,854 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:30:46,670 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:30:54,237 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-08 23:30:58,913 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-08 23:31:04,577 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:31:12,944 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:31:25,103 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-11-08 23:31:44,518 - controllers.task_controller - INFO - Creating new task
+2025-11-08 23:31:44,521 - controllers.task_controller - INFO - Filters applied: 4 tasks match criteria
+2025-11-08 23:31:44,526 - controllers.task_controller - INFO - Saved 4 tasks to storage
+2025-11-08 23:31:44,533 - controllers.task_controller - INFO - Task created: ору (ID: 2786027924480)
+2025-11-08 23:31:52,110 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-08 23:32:01,400 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:32:15,884 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-11-08 23:32:23,407 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-11-08 23:32:30,804 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:32:34,429 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-11-08 23:33:24,163 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-08 23:34:24,048 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-11-08 23:34:32,117 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:34:35,149 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-11-08 23:34:39,299 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:34:46,114 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-08 23:34:52,819 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-08 23:35:08,769 - controllers.task_controller - INFO - Creating new task
+2025-11-08 23:35:08,771 - controllers.task_controller - INFO - Filters applied: 5 tasks match criteria
+2025-11-08 23:35:08,776 - controllers.task_controller - INFO - Saved 5 tasks to storage
+2025-11-08 23:35:08,777 - controllers.task_controller - INFO - Task created: оашк (ID: 2786027924288)
+2025-11-08 23:35:23,336 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-08 23:36:51,572 - controllers.task_controller - INFO - Creating new task
+2025-11-08 23:36:51,574 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-08 23:36:51,577 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-08 23:36:51,579 - controllers.task_controller - INFO - Task created: у3 (ID: 2786027927264)
+2025-11-08 23:36:59,872 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-08 23:37:42,319 - controllers.task_controller - INFO - Filters applied: 0 tasks match criteria
+2025-11-08 23:37:46,876 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-08 23:52:36,226 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-08 23:52:36,231 - controllers.task_controller - INFO - Final save completed
+2025-11-09 00:08:45,641 - __main__ - INFO - Starting To-Do List Application
+2025-11-09 00:08:45,644 - controllers.task_controller - INFO - Loaded 6 tasks from storage
+2025-11-09 00:08:46,524 - __main__ - INFO - Application started successfully
+2025-11-09 00:12:33,850 - controllers.task_controller - INFO - Changing task status ID: 2822744167760 to В процессе
+2025-11-09 00:12:33,860 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-09 00:12:33,873 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-09 00:12:33,917 - controllers.task_controller - INFO - Task status changed: cjdb -> В процессе
+2025-11-09 00:12:41,414 - controllers.task_controller - INFO - Changing task status ID: 2411681097504 to Отложена
+2025-11-09 00:12:41,417 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-09 00:12:41,428 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-09 00:12:41,441 - controllers.task_controller - INFO - Task status changed: новый год -> Отложена
+2025-11-09 00:12:48,162 - controllers.task_controller - INFO - Changing task status ID: 2786026755264 to Выполнена
+2025-11-09 00:12:48,165 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-09 00:12:48,170 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-09 00:12:48,179 - controllers.task_controller - INFO - Task status changed: Кирилл -> Выполнена
+2025-11-09 00:12:54,623 - controllers.task_controller - INFO - Changing task status ID: 2786027924480 to В процессе
+2025-11-09 00:12:54,628 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-09 00:12:54,632 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-09 00:12:54,635 - controllers.task_controller - INFO - Task status changed: ору -> В процессе
+2025-11-09 00:12:59,997 - controllers.task_controller - INFO - Changing task status ID: 2786027924288 to Отложена
+2025-11-09 00:12:59,999 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-09 00:13:00,003 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-09 00:13:00,010 - controllers.task_controller - INFO - Task status changed: оашк -> Отложена
+2025-11-09 00:13:05,678 - controllers.task_controller - INFO - Changing task status ID: 2786027927264 to Выполнена
+2025-11-09 00:13:05,681 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-09 00:13:05,685 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-09 00:13:05,694 - controllers.task_controller - INFO - Task status changed: у3 -> Выполнена
+2025-11-09 00:13:53,249 - controllers.task_controller - INFO - Changing task status ID: 2786027924288 to В процессе
+2025-11-09 00:13:53,260 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-09 00:13:53,265 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-09 00:13:53,271 - controllers.task_controller - INFO - Task status changed: оашк -> В процессе
+2025-11-09 00:14:13,385 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-11-09 00:14:21,553 - controllers.task_controller - INFO - Filters applied: 1 tasks match criteria
+2025-11-09 00:14:28,199 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-11-09 00:14:34,023 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-11-09 00:15:20,240 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-09 00:15:20,244 - controllers.task_controller - INFO - Final save completed
+2025-11-12 18:58:00,456 - __main__ - INFO - Starting To-Do List Application
+2025-11-12 18:58:00,488 - controllers.task_controller - INFO - Loaded 6 tasks from storage
+2025-11-12 18:58:02,964 - __main__ - INFO - Application started successfully
+2025-11-12 18:58:20,199 - controllers.task_controller - INFO - Changing task status ID: 2786027924480 to Выполнена
+2025-11-12 18:58:20,208 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-12 18:58:20,212 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-12 18:58:20,220 - controllers.task_controller - INFO - Task status changed: ору -> Выполнена
+2025-11-12 18:58:26,554 - controllers.task_controller - INFO - Changing task status ID: 2786027924480 to Не начата
+2025-11-12 18:58:26,557 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-12 18:58:26,561 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-12 18:58:26,592 - controllers.task_controller - INFO - Task status changed: ору -> Не начата
+2025-11-12 18:58:40,207 - controllers.task_controller - INFO - Changing task status ID: 2786027924480 to Выполнена
+2025-11-12 18:58:40,210 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-12 18:58:40,214 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-12 18:58:40,220 - controllers.task_controller - INFO - Task status changed: ору -> Выполнена
+2025-11-12 18:58:46,161 - controllers.task_controller - INFO - Changing task status ID: 2411681097504 to Выполнена
+2025-11-12 18:58:46,169 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-12 18:58:46,174 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-12 18:58:46,186 - controllers.task_controller - INFO - Task status changed: новый год -> Выполнена
+2025-11-12 18:58:57,886 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-12 18:58:57,890 - controllers.task_controller - INFO - Final save completed
+2025-11-12 18:59:11,235 - __main__ - INFO - Starting To-Do List Application
+2025-11-12 18:59:11,238 - controllers.task_controller - INFO - Loaded 6 tasks from storage
+2025-11-12 18:59:11,952 - __main__ - INFO - Application started successfully
+2025-11-12 18:59:17,537 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-12 18:59:22,134 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-12 18:59:50,326 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-11-12 18:59:56,953 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-12 19:00:10,552 - controllers.task_controller - INFO - Tasks sorted by: due_date
+2025-11-12 19:00:15,146 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-12 19:00:25,171 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-11-12 19:00:38,027 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-11-12 19:00:43,731 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-11-12 19:00:52,795 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-11-12 19:01:11,998 - controllers.task_controller - INFO - Changing task status ID: 2411681097504 to Не начата
+2025-11-12 19:01:12,000 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-11-12 19:01:12,004 - controllers.task_controller - INFO - Saved 6 tasks to storage
+2025-11-12 19:01:12,006 - controllers.task_controller - INFO - Task status changed: новый год -> Не начата
+2025-11-12 19:01:25,128 - controllers.task_controller - INFO - Filters applied: 1 tasks match criteria
+2025-11-12 19:01:28,865 - controllers.task_controller - INFO - Filters applied: 6 tasks match criteria
+2025-11-12 19:02:20,406 - controllers.task_controller - INFO - Creating new task
+2025-11-12 19:02:20,408 - controllers.task_controller - INFO - Filters applied: 7 tasks match criteria
+2025-11-12 19:02:20,413 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-12 19:02:20,415 - controllers.task_controller - INFO - Task created: Сдать завтра два предмета до конца (ID: 2151993629136)
+2025-11-12 19:02:43,946 - controllers.task_controller - INFO - Changing task status ID: 2151993629136 to В процессе
+2025-11-12 19:02:43,948 - controllers.task_controller - INFO - Filters applied: 7 tasks match criteria
+2025-11-12 19:02:43,956 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-12 19:02:43,960 - controllers.task_controller - INFO - Task status changed: Сдать завтра два предмета до конца -> В процессе
+2025-11-12 19:02:50,451 - controllers.task_controller - INFO - Changing task status ID: 2151993629136 to Отложена
+2025-11-12 19:02:50,498 - controllers.task_controller - INFO - Filters applied: 7 tasks match criteria
+2025-11-12 19:02:50,512 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-12 19:02:50,515 - controllers.task_controller - INFO - Task status changed: Сдать завтра два предмета до конца -> Отложена
+2025-11-12 19:02:55,192 - controllers.task_controller - INFO - Changing task status ID: 2151993629136 to Не начата
+2025-11-12 19:02:55,194 - controllers.task_controller - INFO - Filters applied: 7 tasks match criteria
+2025-11-12 19:02:55,198 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-12 19:02:55,201 - controllers.task_controller - INFO - Task status changed: Сдать завтра два предмета до конца -> Не начата
+2025-11-12 19:03:03,694 - controllers.task_controller - INFO - Changing task status ID: 2151993629136 to В процессе
+2025-11-12 19:03:03,695 - controllers.task_controller - INFO - Filters applied: 7 tasks match criteria
+2025-11-12 19:03:03,699 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-12 19:03:03,701 - controllers.task_controller - INFO - Task status changed: Сдать завтра два предмета до конца -> В процессе
+2025-11-12 19:03:45,558 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-12 19:03:45,722 - controllers.task_controller - INFO - Final save completed
+2025-11-13 19:16:20,292 - __main__ - INFO - Starting To-Do List Application
+2025-11-13 19:16:20,296 - controllers.task_controller - INFO - Loaded 7 tasks from storage
+2025-11-13 19:16:21,302 - __main__ - INFO - Application started successfully
+2025-11-13 20:07:52,048 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-13 20:07:52,054 - controllers.task_controller - INFO - Final save completed
+2025-11-13 20:11:12,373 - __main__ - INFO - Starting To-Do List Application
+2025-11-13 20:11:12,379 - controllers.task_controller - INFO - Loaded 7 tasks from storage
+2025-11-13 20:11:15,126 - __main__ - INFO - Application started successfully
+2025-11-13 20:13:00,615 - controllers.task_controller - INFO - Creating new task
+2025-11-13 20:13:00,618 - controllers.task_controller - INFO - Filters applied: 8 tasks match criteria
+2025-11-13 20:13:00,622 - controllers.task_controller - INFO - Saved 8 tasks to storage
+2025-11-13 20:13:00,624 - controllers.task_controller - INFO - Task created: день рождения (ID: 1385556270864)
+2025-11-13 20:13:21,954 - controllers.task_controller - INFO - Changing task status ID: 1385556270864 to В процессе
+2025-11-13 20:13:21,964 - controllers.task_controller - INFO - Filters applied: 8 tasks match criteria
+2025-11-13 20:13:21,969 - controllers.task_controller - INFO - Saved 8 tasks to storage
+2025-11-13 20:13:21,972 - controllers.task_controller - INFO - Task status changed: день рождения -> В процессе
+2025-11-13 20:16:05,629 - controllers.task_controller - INFO - Changing task status ID: 1385556270864 to Выполнена
+2025-11-13 20:16:05,640 - controllers.task_controller - INFO - Filters applied: 8 tasks match criteria
+2025-11-13 20:16:05,651 - controllers.task_controller - INFO - Saved 8 tasks to storage
+2025-11-13 20:16:05,711 - controllers.task_controller - INFO - Task status changed: день рождения -> Выполнена
+2025-11-13 20:22:51,939 - controllers.task_controller - INFO - Saved 8 tasks to storage
+2025-11-13 20:22:51,946 - controllers.task_controller - INFO - Final save completed
+2025-11-13 20:23:20,135 - __main__ - INFO - Starting To-Do List Application
+2025-11-13 20:23:20,141 - controllers.task_controller - INFO - Loaded 8 tasks from storage
+2025-11-13 20:23:21,351 - __main__ - INFO - Application started successfully
+2025-11-13 20:23:40,842 - controllers.task_controller - INFO - Changing task status ID: 2411681097504 to Выполнена
+2025-11-13 20:23:40,853 - controllers.task_controller - INFO - Filters applied: 8 tasks match criteria
+2025-11-13 20:23:40,867 - controllers.task_controller - INFO - Saved 8 tasks to storage
+2025-11-13 20:23:41,034 - controllers.task_controller - INFO - Task status changed: новый год -> Выполнена
+2025-11-13 20:24:13,525 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-11-13 20:24:22,416 - controllers.task_controller - INFO - Filters applied: 5 tasks match criteria
+2025-11-13 20:25:23,545 - controllers.task_controller - INFO - Filters applied: 2 tasks match criteria
+2025-11-13 20:26:13,059 - controllers.task_controller - INFO - Filters applied: 8 tasks match criteria
+2025-11-14 10:54:14,789 - controllers.task_controller - INFO - Saved 8 tasks to storage
+2025-11-14 10:54:14,797 - controllers.task_controller - INFO - Final save completed
+2025-11-18 15:46:20,270 - __main__ - INFO - Starting To-Do List Application
+2025-11-18 15:46:20,272 - controllers.task_controller - INFO - Loaded 8 tasks from storage
+2025-11-18 15:46:21,958 - __main__ - INFO - Application started successfully
+2025-11-18 15:46:52,335 - controllers.task_controller - INFO - Deleting task ID: 2786026755264
+2025-11-18 15:46:52,336 - controllers.task_controller - INFO - Filters applied: 7 tasks match criteria
+2025-11-18 15:46:52,338 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-18 15:46:52,338 - controllers.task_controller - INFO - Task deleted: Кирилл (ID: 2786026755264)
+2025-11-18 15:47:05,892 - controllers.task_controller - INFO - Tasks sorted by: creation_date
+2025-11-18 15:47:11,966 - controllers.task_controller - INFO - Tasks sorted by: priority
+2025-11-18 15:47:15,794 - controllers.task_controller - INFO - Tasks sorted by: title
+2025-11-18 15:47:26,382 - controllers.task_controller - INFO - Filters applied: 0 tasks match criteria
+2025-11-18 15:47:37,425 - controllers.task_controller - INFO - Filters applied: 3 tasks match criteria
+2025-11-18 15:47:48,638 - controllers.task_controller - INFO - Filters applied: 1 tasks match criteria
+2025-11-18 15:47:51,477 - controllers.task_controller - INFO - Filters applied: 7 tasks match criteria
+2025-11-18 15:48:11,251 - controllers.task_controller - INFO - Saved 7 tasks to storage
+2025-11-18 15:48:11,252 - controllers.task_controller - INFO - Final save completed
